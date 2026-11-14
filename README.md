@@ -48,9 +48,9 @@ Analyse the financial parameters in the dataset by city tier and by occupation.
   ## Dashboard preview
   ![Dashboard 1](Images/img%201.png)
 
-![Dashboard 2](Images/img%202.png)
+  ![Dashboard 2](Images/img%202.png)
 
-![Dashboard 3](Images/img%203.png)
+  ![Dashboard 3](Images/img%203.png)
 
 ## Repository contents
 
