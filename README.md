@@ -46,10 +46,11 @@ Analyse the financial parameters in the dataset by city tier and by occupation.
 - **Potential savings by city tier:** Tier 2 leads in healthcare, transportation, utilities and education. Tier 3 is lowest in each.
 
   ## Dashboard preview
-  ![Dashboard 1](Images/img 1.png)
-  ![Dashboard 2](Images/img 2.png)
-  ![Dashboard 3](Images/img 3.png)
-  
+  ![Dashboard 1](Images/img%201.png)
+
+![Dashboard 2](Images/img%202.png)
+
+![Dashboard 3](Images/img%203.png)
 
 ## Repository contents
 
